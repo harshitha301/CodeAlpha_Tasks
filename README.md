@@ -42,13 +42,13 @@ SmartPassCloud is a cloud-based bus pass management system developed using React
 
 ## Admin Access
 
-Admin Panel URL:
-`/admin`
 
-Admin Passcode:
-`1234`
+Admin Panel URL: /admin
 
-This passcode is provided only for project evaluation and demonstration purposes.
+Admin Passcode: 1234
+
+Note: The admin passcode is included only for internship project evaluation and demonstration purposes.
+
 
 ## Project Structure
 
